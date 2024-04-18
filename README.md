@@ -14,4 +14,4 @@ It is adaptive for different screens:
 I used:
   * HTML, SCSS, JS
   * BEM
-  * lexbox, grid
+  * flexbox, grid
